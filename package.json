@@ -1,8 +1,8 @@
 {
   "name": "change-video-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/change-video-player.umd.js",
   "exports": {
     ".": {
       "import": "./dist/change-video-player.umd.js",
